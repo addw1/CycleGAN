@@ -1,4 +1,4 @@
-# CycleGAN
+# Progressive Growing CYCLE GAN
 
 ###  P1: Introduction
 • In this project, the goal is to integrates CycleGAN with Progressive Growing
